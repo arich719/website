@@ -1,0 +1,32 @@
+*{
+  margin:0;
+  padding: 0;
+}
+body{
+  font-family: sans-serif;
+background-color: #FAEBD7;
+}
+.banner-text{
+  width: 100%;
+  position: absolute;
+  }
+.banner-text ul{
+  height: 50px;
+float: right;
+}
+.banner-text ul li{
+display: inline-block;
+padding: 20px 25px;
+text-transform: uppercase;
+color: black;
+font-size: 20px;
+background-color: grey;
+border: 1px solid black;
+}
+.banner-text h2 {
+text-align: top left;
+color: black;
+font-size: 40px;
+margin-top: 2%;
+float: left;
+}
